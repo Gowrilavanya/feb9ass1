@@ -1,0 +1,23 @@
+#program to print biggest of two numbers
+a=int(input("enter number 1:"))
+b=int(input("enter number 2:"))
+if (a>b):
+    print("biggest number is:",a)
+    print("small num:",b)
+else:
+    print("big num is",b)
+    print("small num is",a)
+
+
+
+Output:
+enter number 1:
+
+25 
+
+enter number 2:
+
+57 
+
+big num is 57 small num is 25
+
